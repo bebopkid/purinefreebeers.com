@@ -5,30 +5,30 @@ About 4% of American adults are affected by gout and only about 1% of Americans 
 
 ### Kirin Zero
 Brewery | % Purine-free | ABV | Style | BA Rating | Buy
-------- | ------------- | --- | ----- | --------- | ---
+--- | --- | --- | --- | --- | ---
 Kirin Brewery Company | 100% | 3% | |  | 
 
 ### Tanrei W Double 
 Brewery | % Purine-free | ABV | Style | BA Rating | Buy
-------- | ------------- | --- | ----- | --------- | ---
+--- | --- | --- | --- | --- | ---
 Kirin Brewery Company | 99% |  | | 2/5
 
 ### Sapporo Zero
 Brewery | % Purine-free | ABV | Style | BA Rating | Buy
-------- | ------------- | --- | ----- | --------- | ---
+--- | --- | --- | --- | --- | ---
 Sapporo Brewery | 100% | | | 2/5 | 
 
 ### Asahi W-Zero
 Brewery | % Purine-free | ABV | Style | BA Rating | Buy
-------- | ------------- | --- | ----- | --------- | ---
+--- | --- | --- | --- | --- | ---
 Asahi Breweries | 100% | 0% | | 3/5 | 
 
 ### Oishi Zero 
 Brewery | % Purine-free | ABV | Style | BA Rating | Buy
-------- | ------------- | --- | ----- | --------- | ---
+--- | --- | --- | --- | --- | ---
 Suntory | 100% | | | 3/5 | 
 
 ### Kirin Tanrei Platinum Double
 Brewery | % Purine-free | ABV | Style | BA Rating | Buy
-------- | ------------- | --- | ----- | --------- | ---
+--- | --- | --- | --- | --- | ---
 Kirin Brewery Company | 100% | | | | 
