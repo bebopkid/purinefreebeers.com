@@ -10,26 +10,31 @@ Brewery | % Purine-free | ABV | Style | BA Rating | Buy
 Kirin Brewery Company | 100% | 3% | _ | _ | _
 
 ### Tanrei W Double 
+
 Brewery | % Purine-free | ABV | Style | BA Rating | Buy
 --- | --- | --- | --- | --- | ---
 Kirin Brewery Company | 99% | _ | _ | 2/5 | _
 
 ### Sapporo Zero
+
 Brewery | % Purine-free | ABV | Style | BA Rating | Buy
 --- | --- | --- | --- | --- | ---
 Sapporo Brewery | 100% | _ | _ | 2/5 | _
 
 ### Asahi W-Zero
+
 Brewery | % Purine-free | ABV | Style | BA Rating | Buy
 --- | --- | --- | --- | --- | ---
 Asahi Breweries | 100% | 0% | _ | 3/5 | _
 
 ### Oishi Zero 
+
 Brewery | % Purine-free | ABV | Style | BA Rating | Buy
 --- | --- | --- | --- | --- | ---
 Suntory | 100% | _ | _ | 3/5 | _
 
 ### Kirin Tanrei Platinum Double
+
 Brewery | % Purine-free | ABV | Style | BA Rating | Buy
 --- | --- | --- | --- | --- | ---
 Kirin Brewery Company | 100% | _ | _ | _ | _
